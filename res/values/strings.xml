@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, YellRage!</string>
+    <string name="app_name">Yell2jump</string>
+    <string name="help_text">The goal of the game is to remain alive as long as possible. Make the character jump by making loud sounds near the 
+        phone\'s microphone (you can yell "jump", clap you hands, hiss, bark or whatever sound you like to produce). The speed of the game will increase 
+        gradually, unless you click on some of the wheel-flakes. Please be sure not to cover the microphone hole on your phone. You can choose whether you want to use the microphone or tapping the screen to make the character jump in the settings menu. Good Luck!</string>
+    <string name="help_title">Help</string>
+    <string name="high_score_title">High Scores</string>
+    <string name="sound_label">Sound input</string>
+    <string name="touch_shortcut">2</string>
+    <string name="touch_label">Touch Input</string>
+    <string name="sound_shortcut">1</string>
+    <string name="game_mode">Game mode</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="mode">
+		<item>@string/sound_label</item>
+		<item>@string/touch_label</item>
+	</array>
+</resources>
